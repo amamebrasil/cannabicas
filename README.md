@@ -1,4 +1,4 @@
-# Panorama Nacional do Setor Associativo da Maconha Medicinal no Brasil
+## Panorama Nacional do Setor Associativo da Maconha Medicinal no Brasil
 
 Uma pesquisa que tem como objetivo a formatação de um documento único, que contribua para o desenvolvimento da Regulamentação e que contemple o trabalho no país 🇧🇷
 
