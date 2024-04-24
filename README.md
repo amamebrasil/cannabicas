@@ -4,5 +4,5 @@ Uma pesquisa que tem como objetivo a formatação de um documento único, que co
 
 ## Versões disponíveis
 
-1, Abril de 2023
-2, Abril de 2024
+- 1, Abril de 2023
+- 2, Abril de 2024
